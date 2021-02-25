@@ -1,36 +1,35 @@
-### Hi there 👋
-### Hey there <img src="https://www.instagram.com/t_w_i_s_h_e_s/" width="25px">
+### Hi folks!! 👋
+
 
 <a href="https://twitter.com/t_w_i_s_h_e_s">
-  <img align="left" alt="Anjali kaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Anjli kaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/akshat-kumar-jain-3a2a09132/">
-  <img align="left" alt="Akshat's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anjli's LinkdeIN" width="22px" src="https://www.linkedin.com/in/anjli-kaur-3b152a191/" />
 </a>
-<a href="https://www.instagram.com/decaf_dope/">
-  <img align="left" alt="Akshat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/t_w_i_s_h_e_s/">
+  <img align="left" alt="Anjli's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.codechef.com/users/akjder_boy">
-  <img align="left" alt="Akshat's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.codechef.com/users/a_njali123">
+  <img align="left" alt="Anjli's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
 
-Hi, I'm [Akshat Kumar Jain](https://www.instagram.com/decaf_dope/), a Developer 🚀 from India.
-Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Anjli Kaur ](https://www.codechef.com/users/a_njali123), a Developer 🚀 from India.
+Beside's programming, I enjoy eating food , cooking and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/Akshat-kumar-jain/Akshat-kumar-jain/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@AkjderB](https://twitter.com/AkjderB);
-- ⚡ Fun fact: I love to make fun of my friends.Da!
-- 📝[Resume](https://drive.google.com/file/d/1ACmpXAyHOFW3SEA9b-zosEwn556-etk8/view?usp=sharing)
+- 📫 How to reach me: [@t_w_i_s_h_e_s](https://twitter.com/t_w_i_s_h_e_s);
+
 
 **Languages and Tools:**  
 
@@ -45,9 +44,6 @@ Beside's programming, I enjoy eating food and traveling.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akshat-kumar-jain&show_icons=true&theme=gotham" alt="AkjderB" />
 
 <!--
 **Akshat-kumar-jain/Akshat-kumar-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Key-JIAECA
