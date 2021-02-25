@@ -3,10 +3,6 @@
 
 <a href="https://twitter.com/t_w_i_s_h_e_s">
   <img align="left" alt="Anjli kaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/akshat-kumar-jain-3a2a09132/">
-  <img align="left" alt="Anjli's LinkdeIN" width="22px" src="https://www.linkedin.com/in/anjli-kaur-3b152a191/" />
-</a>
 <a href="https://www.instagram.com/t_w_i_s_h_e_s/">
   <img align="left" alt="Anjli's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -28,7 +24,7 @@ Beside's programming, I enjoy eating food , cooking and traveling.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@t_w_i_s_h_e_s](https://twitter.com/t_w_i_s_h_e_s);
+- 📫 How to reach me: [Anjli Kaur](https://www.linkedin.com/in/anjli-kaur-3b152a191/)
 
 
 **Languages and Tools:**  
